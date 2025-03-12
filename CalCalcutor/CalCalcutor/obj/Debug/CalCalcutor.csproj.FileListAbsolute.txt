@@ -1,0 +1,13 @@
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\bin\Debug\CalCalcutor.exe.config
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\bin\Debug\CalCalcutor.exe
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\bin\Debug\CalCalcutor.pdb
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\bin\Debug\NutritionLibrary.dll
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\bin\Debug\NutritionLibrary.pdb
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.csproj.AssemblyReference.cache
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.Form1.resources
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.Properties.Resources.resources
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.csproj.GenerateResource.cache
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.csproj.CoreCompileInputs.cache
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcu.32DA5AB2.Up2Date
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.exe
+C:\Users\yaeba\source\repos\CalCalcutor\CalCalcutor\obj\Debug\CalCalcutor.pdb
